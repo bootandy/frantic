@@ -1,0 +1,49 @@
+CACHE MANIFEST
+# 2011-03-27
+
+CACHE:
+favicon.ico
+index.html
+css/main.css
+
+
+images/asteroid1.png
+images/electric.png
+images/laser2.png
+images/powerup-ghost.png
+images/shields.png
+images/asteroid2.png
+images/instruction-title.png
+images/powerup-bombs.png
+images/powerup-laser.png
+images/ship.png
+images/back2.jpg
+images/invaders.png
+images/powerup-electric.png
+images/powerup-shields.png
+images/sidebombs.png
+images/bomb2.png
+images/laser1.png
+images/powerup-energy.png
+images/powerup.psd
+images/sidelaser.png
+
+js/asteroids.js
+js/background.js
+js/instructions.js
+js/invaders.js
+js/levels.js
+js/main.js
+js/powerups.js
+js/ship.js
+
+ sounds/bang1.ogg
+ sounds/bang2.ogg
+ sounds/bang3.ogg
+ sounds/bomb.ogg
+ sounds/laser.ogg
+ sounds/player_dead.ogg
+ sounds/powerup.ogg
+ sounds/shield2.ogg
+ sounds/z2.ogg
+ sounds/z3.ogg
