@@ -7,5 +7,4 @@ Losely based on Tyrian.
 
 Uses open sourced graphics from Tyrian
 
-play it at:
-nuclearcarrot.com/html/frantic
+(Play now)[www.nuclearcarrot.co.uk/html5/frantic]
